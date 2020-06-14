@@ -869,7 +869,7 @@ th {
     padding: 10px 3px; }
 
 .home-banner-area {
-  background: url(../img/home-banner-bg.png) no-repeat;
+  background: url(../img/home-banner-bg1.png) no-repeat;
   background-size: cover;
   background-position: center center;
   max-height: 1200px; }
@@ -917,7 +917,8 @@ th {
       display: none; } }
 
 .banner-area {
-  background: url(../img/banner-bg.png) no-repeat center;
+  background: url(../img/banner-bg1.png) no-repeat center;
+  background-size: cover;
   background-position: right;
   min-height: 510px; }
 
@@ -1279,12 +1280,12 @@ th {
     margin-bottom: 0; }
 
 .registration-area {
-  background: url(../img/registration-bg.png) no-repeat center;
+  background: url(../img/registration-bg1.png) no-repeat center;
   padding: 157px 0px; }
   @media (max-width: 991px) {
     .registration-area {
       padding: 60px 0px;
-      background: #7c32ff; } }
+      background: #00a8ff; } }
   .registration-area .section-title {
     padding-bottom: 0; }
   .registration-area .course-form-section {
@@ -3060,7 +3061,7 @@ h6 {
 
 .footer-area {
   padding: 339px 0px 120px;
-  background: url(../img/footer-bg.png) no-repeat center; }
+  background: url(../img/footer-bg1.png) no-repeat center; }
   @media (max-width: 991px) {
     .footer-area {
       background: #222222;
