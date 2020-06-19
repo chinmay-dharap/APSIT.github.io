@@ -1,0 +1,2 @@
+<h5>REGISTRATION FEE for each technical as well as cultural event is Rs.50 which has to be contributed in <a target="_blank" href="https://www.pmcares.gov.in/en/web/contribution/donate_india">PM care</a> or <a target="_blank" href="https://cmrf.maharashtra.gov.in/CMRFCitizen/mainindexaction">CM relief funds</a>.<br><br>Registration fee goes into charity ! &nbsp;For more info &nbsp; <a target="_blank" href="img/registration.pdf" view>Click here</a></h5><br>
+ <h4 class="title">Registration Fee :- 50 Rs</h4>
